@@ -1,0 +1,14 @@
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\obj\Debug\net10.0-windows\Bai01_ClinicAppointment.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\obj\Debug\net10.0-windows\Bai01_ClinicAppointment.AssemblyInfoInputs.cache
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\obj\Debug\net10.0-windows\Bai01_ClinicAppointment.AssemblyInfo.cs
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\obj\Debug\net10.0-windows\Bai01_ClinicAppointment.csproj.CoreCompileInputs.cache
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\bin\Debug\net10.0-windows\Bai01_ClinicAppointment.exe
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\bin\Debug\net10.0-windows\Bai01_ClinicAppointment.deps.json
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\bin\Debug\net10.0-windows\Bai01_ClinicAppointment.runtimeconfig.json
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\bin\Debug\net10.0-windows\Bai01_ClinicAppointment.dll
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\bin\Debug\net10.0-windows\Bai01_ClinicAppointment.pdb
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\obj\Debug\net10.0-windows\Bai01_ClinicAppointment.dll
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\obj\Debug\net10.0-windows\refint\Bai01_ClinicAppointment.dll
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\obj\Debug\net10.0-windows\Bai01_ClinicAppointment.pdb
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\obj\Debug\net10.0-windows\Bai01_ClinicAppointment.genruntimeconfig.cache
+E:\.NET\BaiTapNgay5-11\Bai01_ClinicAppointment\obj\Debug\net10.0-windows\ref\Bai01_ClinicAppointment.dll

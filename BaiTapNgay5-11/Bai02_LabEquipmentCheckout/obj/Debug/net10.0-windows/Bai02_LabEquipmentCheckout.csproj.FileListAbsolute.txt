@@ -1,0 +1,14 @@
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\bin\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.exe
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\bin\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.deps.json
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\bin\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.runtimeconfig.json
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\bin\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.dll
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\bin\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.pdb
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\obj\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\obj\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.AssemblyInfoInputs.cache
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\obj\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.AssemblyInfo.cs
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\obj\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.csproj.CoreCompileInputs.cache
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\obj\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.dll
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\obj\Debug\net10.0-windows\refint\Bai02_LabEquipmentCheckout.dll
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\obj\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.pdb
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\obj\Debug\net10.0-windows\Bai02_LabEquipmentCheckout.genruntimeconfig.cache
+E:\.NET\BaiTapNgay5-11\Bai02_LabEquipmentCheckout\obj\Debug\net10.0-windows\ref\Bai02_LabEquipmentCheckout.dll

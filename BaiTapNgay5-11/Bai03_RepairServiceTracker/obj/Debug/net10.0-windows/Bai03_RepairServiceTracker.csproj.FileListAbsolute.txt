@@ -1,0 +1,14 @@
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\bin\Debug\net10.0-windows\Bai03_RepairServiceTracker.exe
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\bin\Debug\net10.0-windows\Bai03_RepairServiceTracker.deps.json
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\bin\Debug\net10.0-windows\Bai03_RepairServiceTracker.runtimeconfig.json
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\bin\Debug\net10.0-windows\Bai03_RepairServiceTracker.dll
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\bin\Debug\net10.0-windows\Bai03_RepairServiceTracker.pdb
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\obj\Debug\net10.0-windows\Bai03_RepairServiceTracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\obj\Debug\net10.0-windows\Bai03_RepairServiceTracker.AssemblyInfoInputs.cache
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\obj\Debug\net10.0-windows\Bai03_RepairServiceTracker.AssemblyInfo.cs
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\obj\Debug\net10.0-windows\Bai03_RepairServiceTracker.csproj.CoreCompileInputs.cache
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\obj\Debug\net10.0-windows\Bai03_RepairServiceTracker.dll
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\obj\Debug\net10.0-windows\refint\Bai03_RepairServiceTracker.dll
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\obj\Debug\net10.0-windows\Bai03_RepairServiceTracker.pdb
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\obj\Debug\net10.0-windows\Bai03_RepairServiceTracker.genruntimeconfig.cache
+E:\.NET\BaiTapNgay5-11\Bai03_RepairServiceTracker\obj\Debug\net10.0-windows\ref\Bai03_RepairServiceTracker.dll
